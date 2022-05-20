@@ -1,0 +1,6 @@
+map/
+obj/
+
+*.exe
+*.dll
+*.sln.cache
