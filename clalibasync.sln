@@ -2,7 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 # Clarion 2.1.0.2447
-Project("{12B76EC0-1D7B-4FA7-A7D0-C524288B48A1}") = "asyncRequests", "asyncRequests.cwproj", "{A023671F-711C-4392-9200-097F5EB10946}"
+Project("{12B76EC0-1D7B-4FA7-A7D0-C524288B48A1}") = "async-requests", "async-requests.cwproj", "{A023671F-711C-4392-9200-097F5EB10946}"
+EndProject
+Project("{12B76EC0-1D7B-4FA7-A7D0-C524288B48A1}") = "tests", "tests\tests.cwproj", "{7493C7A9-0BA7-4D3B-8BEA-A274A1EBBAAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,5 +16,9 @@ Global
 		{A023671F-711C-4392-9200-097F5EB10946}.Debug|Win32.ActiveCfg = Debug|Win32
 		{A023671F-711C-4392-9200-097F5EB10946}.Release|Win32.Build.0 = Release|Win32
 		{A023671F-711C-4392-9200-097F5EB10946}.Release|Win32.ActiveCfg = Release|Win32
+		{7493C7A9-0BA7-4D3B-8BEA-A274A1EBBAAF}.Debug|Win32.Build.0 = Debug|Win32
+		{7493C7A9-0BA7-4D3B-8BEA-A274A1EBBAAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7493C7A9-0BA7-4D3B-8BEA-A274A1EBBAAF}.Release|Win32.Build.0 = Release|Win32
+		{7493C7A9-0BA7-4D3B-8BEA-A274A1EBBAAF}.Release|Win32.ActiveCfg = Release|Win32
 	EndGlobalSection
 EndGlobal
